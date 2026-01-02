@@ -1,12 +1,12 @@
 # 🏠 Ames House Price Prediction & Interactive Dashboard
 
 **End-to-End Machine Learning + Data Visualization Project**  
-Built a predictive model for house prices in Ames, Iowa, and created an interactive Power BI dashboard for business insights.
+I built a predictive model for house prices in Ames, Iowa, and created an interactive Power BI dashboard for business insights.
 
-![Dashboard Overview](screenshots/dashboard_page1.png)  
+![Dashboard Overview](image/house1.png)  
 *Model Performance Overview Page*
 
-![Key Drivers Page](screenshots/dashboard_page2.png)  
+![Key Drivers Page](image/house2.png)  
 *Key Price Drivers & Insights Page*
 
 ## 📊 Project Overview
@@ -27,7 +27,23 @@ This project demonstrates a complete data analytics workflow:
 - Data Storytelling
 
 ## 🚀 Live Dashboard
-[View Interactive Power BI Report](YOUR_PUBLISHED_POWER_BI_LINK_HERE)  
-*(Embed or share link from Power BI Service)*
+[View Interactive Power BI Report](https://app.powerbi.com/links/ssJvU1k9yp?ctid=21abb5bf-31bc-4c74-a5bd-25e3727b8d91&pbi_source=linkShare)
 
-## 📁 Repository Structure
+
+## 🔍 Key Insights from the Dashboard
+- Houses with **Overall Quality 8–10** sell for 2–3x more than low-quality ones.
+- Premium neighborhoods (e.g., NoRidge, NridgHt) command significantly higher prices.
+- Model predictions closely align with actual prices (tight scatter plot with trend line).
+- Average prediction error: ~$657.01 USD.
+
+## 🛠️ Tech Stack
+- **Python**: Pandas, Matplotlib, Seaborn, Scikit-learn, XGBoost
+- **Environment**: Google Colab
+- **Visualization**: Power BI Desktop & Service
+- **Dataset Source**: [Kaggle Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+---
+
+**Built by Augustine Nwenewor | January 2026**  
+Connect with me: [LinkedIn](https://www.linkedin.com/in/augustine-nwenewor/) | [Portfolio](https://sites.google.com/view/nwenewor/home)
+
+⭐ Star this repo if you found it helpful!
